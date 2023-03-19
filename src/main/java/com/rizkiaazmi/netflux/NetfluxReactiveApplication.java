@@ -1,4 +1,4 @@
-package com.rizkiaazmi;
+package com.rizkiaazmi.netflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

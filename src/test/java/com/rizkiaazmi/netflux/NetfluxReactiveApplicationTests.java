@@ -1,4 +1,4 @@
-package com.rizkiaazmi;
+package com.rizkiaazmi.netflux;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
