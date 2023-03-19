@@ -1,4 +1,4 @@
-package com.example.netfluxreactive;
+package com.rizkiaazmi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
